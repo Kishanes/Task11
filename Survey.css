@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+textarea {
+  width: 100%;
+}
+
+.fa-star {
+  color: gold;
+}
+
+form {
+  padding: 1rem;
+  border: 1px solid #000;
+  margin: 1rem;
+}
+
+.form-group label {
+  font-weight: bold;
+}
+
+.custom-form .table-div {
+  overflow: auto;
+}
+.custom-form .table-custom {
+  width: 100%;
+}
+.custom-form .table-custom .form-check-input {
+  position: relative;
+  bottom: 0px;
+}
+.custom-form .table-custom th, .custom-form .table-custom td {
+  width: 180px;
+}
+.custom-form .table-custom th {
+  text-align: center;
+}
+.custom-form .table-custom td {
+  padding: 5px 10px;
+}
+.custom-form .table-custom tr:nth-child(odd) {
+  background-color: rgba(227, 227, 251, 0.4784313725);
+}
+.custom-form .table-custom thead tr {
+  background-color: #fff !important;
+}/*# sourceMappingURL=style.css.map */
